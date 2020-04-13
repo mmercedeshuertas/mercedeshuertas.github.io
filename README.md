@@ -1,3 +1,3 @@
-# mercedeshuertas.github.io
+# prototypeteachers
 
-Welcome to my website
+PDFs files that correspond to a mobile app prototype
